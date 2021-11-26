@@ -2,6 +2,12 @@
   text-align: center;
 }
 
+
+#signupForm {
+  margin: auto;
+  height: 300px;
+  width: 800px;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
